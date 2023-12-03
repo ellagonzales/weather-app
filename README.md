@@ -24,6 +24,11 @@ For my final project as a part of App Team Carolina, I decided to recreate Apple
 
 - **Notifications:** Clickable button indicating whether notifications are on or off.
 
-https://github.com/appteamcarolina/f23-academy-final-project-ellagonzales/assets/111532194/082e78dd-e8f3-4844-800f-ba39f2bbdeb4
+https://github.com/ellagonzales/weather-app/assets/111532194/3a4f7701-a63c-4d1a-9837-1c8df1c02233
 
-https://github.com/appteamcarolina/f23-academy-final-project-ellagonzales/assets/111532194/1ed8936d-2c29-44ab-9c16-4e7fe473e305
+https://github.com/ellagonzales/weather-app/assets/111532194/d55b0490-982b-443e-8674-12b14848a1f8
+
+
+
+
+
